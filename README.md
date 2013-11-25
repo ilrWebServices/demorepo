@@ -5,7 +5,7 @@ Sandbox for demonstrating Git concepts
 
 We can use this repo to kick around in. It will eventually be deleted.
 
-Let's change this file.  Okay, done.
+Here we are working in Ives 620.
 
 Here's trouble.
 
